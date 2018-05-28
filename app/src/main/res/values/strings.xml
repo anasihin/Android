@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Go Warteg</string>
+    <string name="title_hint">Nama Makanan</string>
+    <string name="price_hint">Harga</string>
+    <string name="description_hint">Deskripsi</string>
+    <string name="save_menu">Simpan</string>
+    <string name="delete_deal">Hapus</string>
+    <string name="Label_Go_Warteg">Go Warteg</string>
+    <string name="title_activity_login">Login</string>
+</resources>
